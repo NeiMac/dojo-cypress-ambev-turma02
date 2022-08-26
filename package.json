@@ -1,0 +1,26 @@
+{
+  "name": "dojo-cypress-ambev-turma02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeiMac/dojo-cypress-ambev-turma02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeiMac/dojo-cypress-ambev-turma02/issues"
+  },
+  "homepage": "https://github.com/NeiMac/dojo-cypress-ambev-turma02#readme",
+  "devDependencies": {
+    "cypress": "^10.6.0"
+  },
+  "dependencies": {
+    "faker-br": "^0.4.1"
+  }
+}
